@@ -134,6 +134,7 @@ common base-settings
                      , time >= 1.9
                      , time-units ^>= 1.0.0
                      , transformers >= 0.5
+                     , tls >= 2.0
                      , unliftio >= 0.2 && < 0.3
                      , unliftio-core >= 0.2 && < 0.3
                      , unordered-containers >= 0.2
